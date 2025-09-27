@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,7 +117,7 @@
         function handleBatteryStatus() {
             // Check if the Battery Status API is supported
             if ('getBattery' in navigator) {
-                navigator.getBattery()we.then(battery => {
+                navigator.getBattery().then(battery => {
                     // Initial status display
                     updateBattery(battery);
 
