@@ -3,16 +3,16 @@ const { cmd, commands } = require('../command');
 
 // Array of different fancy text styles for QADEER-AI
 const botNameStyles = [
-    "𝑆𝐻𝐴𝐻𝐼𝐷-𝑋𝑀𝐷",
-    "𝑺𝑯𝑨𝑯𝑰𝑫-𝑿𝑴𝑫",
-    "𝐒𝐇𝐀𝐇𝐈𝐃-𝐗𝐌𝐃",
-    "𝚂𝙷𝙰𝙷𝙸𝙳-𝚇𝙼𝙳",
-    "𝙎𝙃𝘼𝙃𝙄𝘿-𝙓𝙈𝘿",
-    "ＳＨＡＨＩＤ-ＸＭＤ",
-    "ѕнaнιd-хмd",
-    "sнαнι∂-xм∂",
-    "sʜᴀʜɪᴅ-xᴍᴅ",
-    "ˢᴴᴬᴴᴵᴰ-ˣᴹᴰ"
+    "MUDASIR-MS",
+    "MUDASIR-MS",
+    "MUDASIR-MS",
+    "MUDASIR-MS",
+    "MUDASIR-MS",
+    "MUDASIR-MS",
+    "MUDASIR-MS",
+    "MUDASIR-MS",
+    "MUDASIR-MS",
+    "MUDASIR-MS"
 ];
 
 // Track current style index
@@ -61,10 +61,10 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
             contextInfo: {
                 mentionedJid: [sender],
                 forwardingScore: 999,
-                isForwarded: true,
+                isForwarded: false,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420842499241@newsletter',
-                    newsletterName: "SHAHID-XMD",
+                    newsletterName: "MUDASIR-MS",
                     serverMessageId: 143
                 }
             }
