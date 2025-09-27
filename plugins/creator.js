@@ -13,9 +13,9 @@ async (conn, mek, m, { from, sender, reply }) => {
     try {
         // Owner information (you can modify these values)
         const ownerInfo = {
-            name: "SHAHID-XMD",
-            number: "+923423706291",
-            photo: "https://files.catbox.moe/sxa61f.jpg",
+            name: "MUDASIR_MS",
+            number: "+923239956476",
+            photo: "https://qu.ax/wKRmV.jpg",
             bio: "The creator of this amazing bot"
         };
 
@@ -48,7 +48,7 @@ async (conn, mek, m, { from, sender, reply }) => {
     } catch (e) {
         console.error("Creator Command Error:", e);
         // Fallback text if image fails
-        await reply(`👑 *Creator Info*\n\nName: SHAHID-XMD\nNumber: +923423706291\n\nContact for bot support!`);
+        await reply(`👑 *Creator Info*\n\nName: MUDASIR_MS\nNumber: +923239956476\n\nContact for bot support!`);
     }
 });
 
