@@ -1,8 +1,8 @@
 {
-  "name": "SHAHID-XMD",
+  "name": "MUDASIR_MS",
   "description": "Javascript WhatsApp bot made by SHAHID-XMD",
-  "logo": "https://files.catbox.moe/sxa61f.jpg",
-  "keywords": ["SHAHID-XMD"],
+  "logo": "https://qu.ax/wKRmV.jpg",
+  "keywords": ["MUDASIR_MS"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHAHID-XMD"
+      "value": "MUDASIR_MS"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY SHAHID-XMD 🖤*"
+      "value": "*SEEN YOUR STATUS BY MUDASIR_MS 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "SHAHID-XMD"
+      "value": "MUDASIR_MS"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923423706291"
+      "value": "923239956476"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHAHID-XMD"
+      "value": "MUDASIR_MS"
 
       }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER SHAHID-XMD*"
+      "value": "*CREATER MUDASIR_MS*"
     },
 
       "DELETE_LINKS": {
