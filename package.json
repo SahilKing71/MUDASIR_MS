@@ -1,12 +1,12 @@
 {
-  "name": "SHAHID-XMD",
+  "name": "MUDASIR-MS",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By SHAHID-XMD",
+  "description": "A WhatsApp Bot Created By MUDASIR-MS",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHAHID-XMD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name MUDASIR-MS",
     "stop": "pm2 stop SHAHID-XMD",
-    "restart": "pm2 restart SHAHID-XMD"
+    "restart": "pm2 restart MUDASIR-MS"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.5",
