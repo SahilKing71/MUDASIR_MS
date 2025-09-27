@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://files.catbox.moe/sxa61f.jpg" alt="SHAHID XMD" width="1000"/>
+  <img src="https://qu.ax/wKRmV.jpg" alt="MUDASIR_MS" width="1000"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+SHAHID+XMD+Powerful+Bot+⚡;Next+Gen+WhatsApp+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="SHAHID XMD Animated Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+MUDASIR+MS+Powerful+Bot+⚡;Next+Gen+WhatsApp+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="MUDASIR_MS Animated Banner" />
 </h1>
 
 ---
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/kingmd786/SHAHID-XMD">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/SahilKing71/MUDASIR_MS">
     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku"/>
   </a>
   <a href="https://shahid-xmd-session.onrender.com/">
