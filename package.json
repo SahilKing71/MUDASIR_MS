@@ -1,12 +1,12 @@
 {
-  "name": "MUDASIR-MS",
+  "name": "MUDASIR_MS",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By MUDASIR-MS",
+  "description": "A WhatsApp Bot Created By MUDASIR_MS",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MUDASIR-MS",
-    "stop": "pm2 stop SHAHID-XMD",
-    "restart": "pm2 restart MUDASIR-MS"
+    "start": "pm2 start index.js --deep-monitoring --attach --name MUDASIR_MS",
+    "stop": "pm2 stop MUDASIR_MS",
+    "restart": "pm2 restart MUDASIR_MS"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.5",
